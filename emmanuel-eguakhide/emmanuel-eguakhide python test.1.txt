@@ -1,0 +1,6 @@
+def name(str):
+    str1 = str*3
+    print(str1)
+name("boy")
+name("Emmanuel")
+
